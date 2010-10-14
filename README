@@ -6,4 +6,7 @@ I have add a repository named `Test' in my github account vocalfolds@gmail.com. 
 git add to stage.
 branch c is from master
 branch -d master
-branch master, so c and master is now the same
+branch master, so c and master is now the same.
+
+Add color support by add command 'git config --global color.ui true'
+
